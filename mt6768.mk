@@ -329,7 +329,7 @@ PRODUCT_PACKAGES += \
     init.mt6768.rc \
     init.mt6768.usb.rc \
     init.target.rc \
-    ueventd.mtk.rc
+    ueventd.mt6768.rc
 
 PRODUCT_PACKAGES += \
     init.recovery.mt6768.rc
