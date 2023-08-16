@@ -194,6 +194,10 @@ PRODUCT_PACKAGES += \
     libpuresoftkeymasterdevice.vendor \
     libsoft_attestation_cert.vendor
 
+# Keystore
+PRODUCT_PACKAGES += \
+    android.system.keystore2
+
 # Lights
 PRODUCT_PACKAGES += \
     android.hardware.light-service.mt6768
