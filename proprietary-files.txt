@@ -505,6 +505,10 @@ vendor/lib64/liburee_meta_drmkeyinstall.so
 vendor/lib64/vendor.mediatek.hardware.keymaster_attestation@1.0.so
 vendor/lib64/vendor.mediatek.hardware.keymaster_attestation@1.1.so
 
+# libfmjni
+-system/lib64/libfmradio_jni.so:system/lib64/libfmjni.so
+-system/lib/libfmradio_jni.so:system/lib/libfmjni.so
+
 # Lights
 vendor/lib/libaal_key.so
 vendor/lib/librgbwlightsensor.so
